@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #ff00ff;
+}
+
+header > div {
+  height: 70px;
+  background-color: #fbb3ff;
+}
+
+main {
+  height: 500px;
+}
+
+.sidebar {
+  background-color: #d8ffb6;
+}
+
+.box-list {
+  background-color: #00b522;
+}
+
+.box-list > div {
+  background-color: #fff75a;
+}
+
+footer {
+  background-color: #52a1ff;
+}
+
+footer > div {
+  background-color: #b6e7ff;
+}
